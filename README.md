@@ -13,5 +13,4 @@ API "Дневник тренировок"
 Реализована отправка сообщений админу и периодические таски через celery  
 В API использована работа с Elasticsearch для поиска по тренировкам  
 Написан Dockerfile для сборки проекта через requirements.txt  
-Переменные SECRET_KEY SOCIAL_AUTH_FACEBOOK_KEY SOCIAL_AUTH_FACEBOOK_SECRET EMAIL_PORT  
-EMAIL_HOST_USER EMAIL_HOST_PASSWORD находятся в local_settings и отсутсвуют в репозитории
+Переменные SECRET_KEY SOCIAL_AUTH_FACEBOOK_KEY SOCIAL_AUTH_FACEBOOK_SECRET EMAIL_PORT EMAIL_HOST_USER EMAIL_HOST_PASSWORD находятся в local_settings и отсутсвуют в репозитории
