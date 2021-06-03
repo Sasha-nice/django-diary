@@ -1,4 +1,5 @@
 local_settings.py
 .idea/
 migrations/
-pycache/
+__pycache__/
+db.sqlite3
